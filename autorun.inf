@@ -1,0 +1,5 @@
+﻿[AutoRun]
+open=setup.exe
+action=Install MoorWen
+icon=icon.ico
+label=MoorWen
